@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Emilly Victória, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio na Etec Abdias do Nascimento, integrado com o curso técnico em Administração. Atualmente, estou cursando Ciência da Computação na Universidade Cruzeiro do Sul. Sou apaixonada por tecnologia desde pequena. Estou em busca de me desenvolver profissionalmente, estudando e colocando em prática meus conhecimentos.
+Me chamo Emilly Victória, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio na Etec Abdias do Nascimento, integrado com o curso técnico em Administração. Atualmente, estou cursando Ciência da Computação na Universidade Cruzeiro do Sul. Sou apaixonada por tecnologia desde pequena. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
 <p align="left">
     </a> 
     <a href="https://github.com/EmillyVictoria1205?tab=repositories&sort=stargazers">
@@ -50,3 +50,12 @@ No atual momente estou estudando para desenvolver meu conhecimento em linguagens
   />
 
 </p>
+
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmillyVictoria1205/EmillyVictoria1205/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmillyVictoria1205/EmillyVictoria1205/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EmillyVictoria1205/EmillyVictoria1205/output/github-contribution-grid-snake.svg">
+</picture>
